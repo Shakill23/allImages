@@ -1,1 +1,1 @@
-# images-examples
+# all-images
